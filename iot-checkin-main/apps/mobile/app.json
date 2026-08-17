@@ -1,0 +1,20 @@
+{
+  "name": "Mobile",
+  "displayName": "Mobile",
+  "expo": {
+    "name": "Mobile",
+    "slug": "mobile",
+    "version": "0.0.1",
+    "android": {
+      "package": "com.cabylock.mobile"
+    },
+    "ios": {
+      "bundleIdentifier": "com.cabylock.mobile"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9bb83986-0078-4e0e-b3a9-4ed50e4a18aa"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mobile",
+  "version": "0.0.1",
+  "private": true,
+  "main": "src/main.tsx",
+  "dependencies": {
+    "@react-native/metro-config": "*",
+    "expo": ">=53.0.0-0 <54.0.0",
+    "metro-config": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*",
+    "react-native-config": "*",
+    "react-native-screens": "*",
+    "react-native-safe-area-context": "*",
+    "@react-native-async-storage/async-storage": "*",
+    "@react-native-google-signin/google-signin": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/native-stack": "*",
+    "@react-navigation/bottom-tabs": "*",
+    "lucide-react-native": "*",
+    "axios": "*",
+    "date-fns": "*"
+  }
+}

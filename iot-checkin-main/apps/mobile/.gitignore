@@ -1,0 +1,9 @@
+# Expo placeholder gitignore
+node_modules/
+.expo/
+dist/
+
+# Expo
+.expo
+dist/
+web-build/

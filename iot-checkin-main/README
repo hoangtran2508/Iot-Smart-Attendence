@@ -1,0 +1,8 @@
+## BE:
+- pnpm nx serve api
+
+## FE:
+- pnpm nx dev dashboard
+
+## MB:
+- pnpm nx dev mobile
