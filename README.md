@@ -16,7 +16,8 @@
 ![Nx](https://img.shields.io/badge/Nx_Monorepo-143055?logo=nx&logoColor=white)
 
 > Một nền tảng IoT kết hợp phần mềm và phần cứng để xác thực người dùng, ghi nhận lượt vào/ra, điều khiển cửa và quản lý dữ liệu chấm công theo thời gian thực.
-
+Link drive video demo: https://drive.google.com/file/d/1GuYFq73kAeKo30It8WPAVByuxD7V9Ca5/view?usp=sharing
+Link drive báo cáo sản phẩm: https://drive.google.com/drive/u/0/folders/1L_TlXFQXWCsKGll82RkQjb1K3UFqNdh_
 </div>
 
 ---
